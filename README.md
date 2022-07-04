@@ -1,6 +1,7 @@
-# YANA (You Are Not Alone)
+# YANA Chatbot
 
-YANA mobile app is a simple chatbot designed using flutter. It takes user input and fetches reply through an API call.
+
+YANA mobile app is a simple chatbot designed using flutter
 
 ## Getting Started
 
